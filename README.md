@@ -88,13 +88,13 @@ This demonstrates why healthcare analytics requires both quantitative analysis a
 
 Visualizations
 Average Hospital Rating by Hospital Type
-!Average Hospital Rating by Hospital Type
+![Average Hospital Rating by Hospital Type](visualizations/hospital_ratings_by_type.png)
 
 Distribution of Hospital Overall Ratings
-!Distribution of Hospital Overall Ratings
+![Distribution of Hospital Overall Ratings](visualizations/hospital_rating_distribution.png)
 
 Top 10 States by Average Hospital Rating
-!Top 10 States by Average Hospital Rating
+![Top 10 States by Average Hospital Rating](visualizations/top_10_states_by_hospital_rating.png)
 
 Skills Demonstrated
 Python
